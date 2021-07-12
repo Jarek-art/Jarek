@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Porównywarka</title>
+  </head>
+  <body>
+    <h1>Porównywarka</h1>
+<h2>Sprawdź jakie auto kupić</h2>
+<h3>To nic nie kosztuje</h3>
+    <img src="images/obrazek.jpg" alt="Porównywarka">
+    <p>W E-Porówcywarce jeteśmy:</p>
+
+<ul>
+  <li>geekami
+      <ol>Ale nie lamusami :D</ol>
+  </li>
+  <li>myślicielami</li>
+  <li>fanami motoryzacji</li>
+</ul>
+
+<p>pracując razem pomagamy ludziom kupić odpowiednie auto </p>
+<a href="https://jarek-jedrzejczakcv.netlify.app">Jarosław Jędrzejczak</a>
+  </body>
+</html> 
